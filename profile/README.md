@@ -8,7 +8,7 @@ JAVA 기반 DevOps 개발자 양성 훈련 Final Project
 ## 👤 Members  
 |이름|email|
 |:--:|:--:|
-|[김원](https://github.com/Wonnnnnn)||
+|[김원](https://github.com/Wonnnnnn)|wontheonlyone@gmail.com|
 |[한별](https://github.com/starht)||
 |[정명지](https://github.com/myungji2)|myungji129@naver.com|    
 

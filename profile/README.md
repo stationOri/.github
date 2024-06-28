@@ -11,5 +11,5 @@
   <img src="https://render.gitanimals.org/farms/wonnnnnn"/>
 </a>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/myungzi2"/>
+  <img src="https://render.gitanimals.org/farms/myungji2"/>
 </a>

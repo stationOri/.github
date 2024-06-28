@@ -5,5 +5,11 @@
 
 ## Ori Animal Farm
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/stationOri"/>
+  <img src="https://render.gitanimals.org/farms/starht"/>
+</a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/wonnnnnn"/>
+</a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/myungzi2"/>
 </a>

@@ -9,7 +9,7 @@ JAVA 기반 DevOps 개발자 양성 훈련 Final Project
 |이름|email|
 |:--:|:--:|
 |[김원](https://github.com/Wonnnnnn)|wontheonlyone@gmail.com|
-|[한별](https://github.com/starht)||
+|[한별](https://github.com/starht)|star2thb@gmail.com|
 |[정명지](https://github.com/myungji2)|myungji129@naver.com|    
 
 ## 👩‍🌾 Ori Animal Farm
